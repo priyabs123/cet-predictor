@@ -1,0 +1,193 @@
+college_code,college_name,branch_code,branch_name,category,cutoff_rank,location,district,college_type
+E001,RV College of Engineering,CS,Computer Science,GM,245,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,CS,Computer Science,OBC,892,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,CS,Computer Science,SC,2341,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,CS,Computer Science,ST,3456,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,EC,Electronics,GM,1205,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,EC,Electronics,OBC,2341,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,ME,Mechanical,GM,3456,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,CV,Civil,GM,4521,Bangalore,Bangalore Urban,Private
+E001,RV College of Engineering,IS,Information Science,GM,892,Bangalore,Bangalore Urban,Private
+E002,BMS College of Engineering,CS,Computer Science,GM,521,Bangalore,Bangalore Urban,Private
+E002,BMS College of Engineering,CS,Computer Science,OBC,1234,Bangalore,Bangalore Urban,Private
+E002,BMS College of Engineering,CS,Computer Science,SC,3421,Bangalore,Bangalore Urban,Private
+E002,BMS College of Engineering,EC,Electronics,GM,1892,Bangalore,Bangalore Urban,Private
+E002,BMS College of Engineering,ME,Mechanical,GM,4231,Bangalore,Bangalore Urban,Private
+E002,BMS College of Engineering,IS,Information Science,GM,1123,Bangalore,Bangalore Urban,Private
+E003,MSRIT,CS,Computer Science,GM,892,Bangalore,Bangalore Urban,Private
+E003,MSRIT,CS,Computer Science,OBC,2341,Bangalore,Bangalore Urban,Private
+E003,MSRIT,EC,Electronics,GM,2134,Bangalore,Bangalore Urban,Private
+E003,MSRIT,ME,Mechanical,GM,5234,Bangalore,Bangalore Urban,Private
+E003,MSRIT,IS,Information Science,GM,1892,Bangalore,Bangalore Urban,Private
+E004,PES University,CS,Computer Science,GM,312,Bangalore,Bangalore Urban,Private
+E004,PES University,CS,Computer Science,OBC,1021,Bangalore,Bangalore Urban,Private
+E004,PES University,EC,Electronics,GM,1523,Bangalore,Bangalore Urban,Private
+E004,PES University,IS,Information Science,GM,723,Bangalore,Bangalore Urban,Private
+E005,Dayananda Sagar College,CS,Computer Science,GM,12341,Bangalore,Bangalore Urban,Private
+E005,Dayananda Sagar College,CS,Computer Science,OBC,24521,Bangalore,Bangalore Urban,Private
+E005,Dayananda Sagar College,CS,Computer Science,SC,45000,Bangalore,Bangalore Urban,Private
+E005,Dayananda Sagar College,EC,Electronics,GM,18892,Bangalore,Bangalore Urban,Private
+E005,Dayananda Sagar College,ME,Mechanical,GM,36234,Bangalore,Bangalore Urban,Private
+E006,NIE Mysore,CS,Computer Science,GM,13421,Mysuru,Mysuru,Private
+E006,NIE Mysore,CS,Computer Science,OBC,25892,Mysuru,Mysuru,Private
+E006,NIE Mysore,CS,Computer Science,SC,48000,Mysuru,Mysuru,Private
+E006,NIE Mysore,EC,Electronics,GM,24521,Mysuru,Mysuru,Private
+E006,NIE Mysore,ME,Mechanical,GM,37234,Mysuru,Mysuru,Private
+E006,NIE Mysore,IS,Information Science,GM,14123,Mysuru,Mysuru,Private
+E007,JSS Academy of Technical Education,CS,Computer Science,GM,24521,Mysuru,Mysuru,Private
+E007,JSS Academy of Technical Education,CS,Computer Science,OBC,38000,Mysuru,Mysuru,Private
+E007,JSS Academy of Technical Education,EC,Electronics,GM,35892,Mysuru,Mysuru,Private
+E007,JSS Academy of Technical Education,ME,Mechanical,GM,48234,Mysuru,Mysuru,Private
+E008,VVCE Mysore,CS,Computer Science,GM,35892,Mysuru,Mysuru,Private
+E008,VVCE Mysore,CS,Computer Science,OBC,52000,Mysuru,Mysuru,Private
+E008,VVCE Mysore,EC,Electronics,GM,47234,Mysuru,Mysuru,Private
+E008,VVCE Mysore,ME,Mechanical,GM,59234,Mysuru,Mysuru,Private
+E009,SDM College of Engineering,CS,Computer Science,GM,24123,Mangalore,Dakshina Kannada,Private
+E009,SDM College of Engineering,CS,Computer Science,OBC,38000,Mangalore,Dakshina Kannada,Private
+E009,SDM College of Engineering,EC,Electronics,GM,35892,Mangalore,Dakshina Kannada,Private
+E009,SDM College of Engineering,ME,Mechanical,GM,48123,Mangalore,Dakshina Kannada,Private
+E010,NMAM Institute of Technology,CS,Computer Science,GM,35234,Mangalore,Dakshina Kannada,Private
+E010,NMAM Institute of Technology,CS,Computer Science,OBC,52000,Mangalore,Dakshina Kannada,Private
+E010,NMAM Institute of Technology,EC,Electronics,GM,46892,Mangalore,Dakshina Kannada,Private
+E010,NMAM Institute of Technology,ME,Mechanical,GM,59123,Mangalore,Dakshina Kannada,Private
+E011,BIT Bangalore,CS,Computer Science,GM,23892,Bangalore,Bangalore Urban,Private
+E011,BIT Bangalore,CS,Computer Science,OBC,38000,Bangalore,Bangalore Urban,Private
+E011,BIT Bangalore,EC,Electronics,GM,35234,Bangalore,Bangalore Urban,Private
+E011,BIT Bangalore,ME,Mechanical,GM,47892,Bangalore,Bangalore Urban,Private
+E011,BIT Bangalore,IS,Information Science,GM,24521,Bangalore,Bangalore Urban,Private
+E012,BMSCE Bangalore,CS,Computer Science,GM,11892,Bangalore,Bangalore Urban,Private
+E012,BMSCE Bangalore,CS,Computer Science,OBC,23521,Bangalore,Bangalore Urban,Private
+E012,BMSCE Bangalore,EC,Electronics,GM,22892,Bangalore,Bangalore Urban,Private
+E012,BMSCE Bangalore,ME,Mechanical,GM,35521,Bangalore,Bangalore Urban,Private
+E013,Siddaganga Institute,CS,Computer Science,GM,34892,Tumkur,Tumkur,Private
+E013,Siddaganga Institute,CS,Computer Science,OBC,52000,Tumkur,Tumkur,Private
+E013,Siddaganga Institute,EC,Electronics,GM,46521,Tumkur,Tumkur,Private
+E013,Siddaganga Institute,ME,Mechanical,GM,58892,Tumkur,Tumkur,Private
+E014,BIET Davangere,CS,Computer Science,GM,46234,Davangere,Davangere,Private
+E014,BIET Davangere,CS,Computer Science,OBC,62000,Davangere,Davangere,Private
+E014,BIET Davangere,EC,Electronics,GM,57892,Davangere,Davangere,Private
+E014,BIET Davangere,ME,Mechanical,GM,70234,Davangere,Davangere,Private
+E015,KLE Belgaum,CS,Computer Science,GM,35521,Belagavi,Belagavi,Private
+E015,KLE Belgaum,CS,Computer Science,OBC,52000,Belagavi,Belagavi,Private
+E015,KLE Belgaum,EC,Electronics,GM,47234,Belagavi,Belagavi,Private
+E015,KLE Belgaum,ME,Mechanical,GM,59892,Belagavi,Belagavi,Private
+E016,BVBCET Hubli,CS,Computer Science,GM,34892,Hubli,Dharwad,Private
+E016,BVBCET Hubli,CS,Computer Science,OBC,51000,Hubli,Dharwad,Private
+E016,BVBCET Hubli,EC,Electronics,GM,46521,Hubli,Dharwad,Private
+E016,BVBCET Hubli,ME,Mechanical,GM,58892,Hubli,Dharwad,Private
+E016,BVBCET Hubli,IS,Information Science,GM,35521,Hubli,Dharwad,Private
+E017,KLS Gogte Institute,CS,Computer Science,GM,45892,Belagavi,Belagavi,Private
+E017,KLS Gogte Institute,CS,Computer Science,OBC,62000,Belagavi,Belagavi,Private
+E017,KLS Gogte Institute,EC,Electronics,GM,57521,Belagavi,Belagavi,Private
+E017,KLS Gogte Institute,ME,Mechanical,GM,70234,Belagavi,Belagavi,Private
+E018,Manipal Institute of Technology,CS,Computer Science,GM,234,Manipal,Udupi,Private
+E018,Manipal Institute of Technology,CS,Computer Science,OBC,892,Manipal,Udupi,Private
+E018,Manipal Institute of Technology,EC,Electronics,GM,892,Manipal,Udupi,Private
+E018,Manipal Institute of Technology,ME,Mechanical,GM,3234,Manipal,Udupi,Private
+E018,Manipal Institute of Technology,IS,Information Science,GM,521,Manipal,Udupi,Private
+E019,UVCE Bangalore,CS,Computer Science,GM,12892,Bangalore,Bangalore Urban,Government
+E019,UVCE Bangalore,CS,Computer Science,OBC,24521,Bangalore,Bangalore Urban,Government
+E019,UVCE Bangalore,CS,Computer Science,SC,47892,Bangalore,Bangalore Urban,Government
+E019,UVCE Bangalore,EC,Electronics,GM,24234,Bangalore,Bangalore Urban,Government
+E019,UVCE Bangalore,ME,Mechanical,GM,36892,Bangalore,Bangalore Urban,Government
+E020,SJCE Mysore,CS,Computer Science,GM,23521,Mysuru,Mysuru,Government
+E020,SJCE Mysore,CS,Computer Science,OBC,35892,Mysuru,Mysuru,Government
+E020,SJCE Mysore,CS,Computer Science,SC,58000,Mysuru,Mysuru,Government
+E020,SJCE Mysore,EC,Electronics,GM,34892,Mysuru,Mysuru,Government
+E020,SJCE Mysore,ME,Mechanical,GM,47234,Mysuru,Mysuru,Government
+E021,SSIT Tumkur,CS,Computer Science,GM,47234,Tumkur,Tumkur,Private
+E021,SSIT Tumkur,CS,Computer Science,OBC,63000,Tumkur,Tumkur,Private
+E021,SSIT Tumkur,EC,Electronics,GM,59521,Tumkur,Tumkur,Private
+E022,AIT Bangalore,CS,Computer Science,GM,35521,Bangalore,Bangalore Urban,Private
+E022,AIT Bangalore,CS,Computer Science,OBC,52000,Bangalore,Bangalore Urban,Private
+E022,AIT Bangalore,EC,Electronics,GM,47234,Bangalore,Bangalore Urban,Private
+E022,AIT Bangalore,ME,Mechanical,GM,59892,Bangalore,Bangalore Urban,Private
+E023,CMRIT Bangalore,CS,Computer Science,GM,34234,Bangalore,Bangalore Urban,Private
+E023,CMRIT Bangalore,CS,Computer Science,OBC,51000,Bangalore,Bangalore Urban,Private
+E023,CMRIT Bangalore,EC,Electronics,GM,46521,Bangalore,Bangalore Urban,Private
+E023,CMRIT Bangalore,IS,Information Science,GM,35234,Bangalore,Bangalore Urban,Private
+E024,DSCE Bangalore,CS,Computer Science,GM,45892,Bangalore,Bangalore Urban,Private
+E024,DSCE Bangalore,CS,Computer Science,OBC,62000,Bangalore,Bangalore Urban,Private
+E024,DSCE Bangalore,EC,Electronics,GM,57521,Bangalore,Bangalore Urban,Private
+E025,Jain University,CS,Computer Science,GM,33892,Bangalore,Bangalore Urban,Private
+E025,Jain University,CS,Computer Science,OBC,50000,Bangalore,Bangalore Urban,Private
+E025,Jain University,EC,Electronics,GM,45521,Bangalore,Bangalore Urban,Private
+E025,Jain University,IS,Information Science,GM,34521,Bangalore,Bangalore Urban,Private
+E026,New Horizon College,CS,Computer Science,GM,56234,Bangalore,Bangalore Urban,Private
+E026,New Horizon College,CS,Computer Science,OBC,72000,Bangalore,Bangalore Urban,Private
+E026,New Horizon College,EC,Electronics,GM,68521,Bangalore,Bangalore Urban,Private
+E027,East West Institute,CS,Computer Science,GM,67892,Bangalore,Bangalore Urban,Private
+E027,East West Institute,CS,Computer Science,OBC,83000,Bangalore,Bangalore Urban,Private
+E027,East West Institute,EC,Electronics,GM,79521,Bangalore,Bangalore Urban,Private
+E028,RNSIT Bangalore,CS,Computer Science,GM,45234,Bangalore,Bangalore Urban,Private
+E028,RNSIT Bangalore,CS,Computer Science,OBC,62000,Bangalore,Bangalore Urban,Private
+E028,RNSIT Bangalore,EC,Electronics,GM,57234,Bangalore,Bangalore Urban,Private
+E028,RNSIT Bangalore,IS,Information Science,GM,46234,Bangalore,Bangalore Urban,Private
+E029,SIT Tumkur,CS,Computer Science,GM,58234,Tumkur,Tumkur,Private
+E029,SIT Tumkur,CS,Computer Science,OBC,74000,Tumkur,Tumkur,Private
+E029,SIT Tumkur,EC,Electronics,GM,70521,Tumkur,Tumkur,Private
+E030,HKBK College,CS,Computer Science,GM,69521,Bangalore,Bangalore Urban,Private
+E030,HKBK College,CS,Computer Science,OBC,85000,Bangalore,Bangalore Urban,Private
+E030,HKBK College,EC,Electronics,GM,81234,Bangalore,Bangalore Urban,Private
+E031,Global Academy of Technology,CS,Computer Science,GM,78234,Bangalore,Bangalore Urban,Private
+E031,Global Academy of Technology,CS,Computer Science,OBC,94000,Bangalore,Bangalore Urban,Private
+E031,Global Academy of Technology,EC,Electronics,GM,90521,Bangalore,Bangalore Urban,Private
+E031,Global Academy of Technology,ME,Mechanical,GM,110000,Bangalore,Bangalore Urban,Private
+E032,Sapthagiri College,CS,Computer Science,GM,89521,Bangalore,Bangalore Urban,Private
+E032,Sapthagiri College,CS,Computer Science,OBC,105000,Bangalore,Bangalore Urban,Private
+E032,Sapthagiri College,EC,Electronics,GM,101234,Bangalore,Bangalore Urban,Private
+E033,Sri Venkateshwara College,CS,Computer Science,GM,95234,Bangalore,Bangalore Urban,Private
+E033,Sri Venkateshwara College,CS,Computer Science,OBC,111000,Bangalore,Bangalore Urban,Private
+E033,Sri Venkateshwara College,EC,Electronics,GM,107521,Bangalore,Bangalore Urban,Private
+E034,Atria Institute of Technology,CS,Computer Science,GM,67892,Bangalore,Bangalore Urban,Private
+E034,Atria Institute of Technology,CS,Computer Science,OBC,83000,Bangalore,Bangalore Urban,Private
+E034,Atria Institute of Technology,EC,Electronics,GM,79521,Bangalore,Bangalore Urban,Private
+E035,Cambridge Institute,CS,Computer Science,GM,78521,Bangalore,Bangalore Urban,Private
+E035,Cambridge Institute,CS,Computer Science,OBC,94000,Bangalore,Bangalore Urban,Private
+E035,Cambridge Institute,EC,Electronics,GM,90234,Bangalore,Bangalore Urban,Private
+E036,Presidency University,CS,Computer Science,GM,56892,Bangalore,Bangalore Urban,Private
+E036,Presidency University,CS,Computer Science,OBC,72000,Bangalore,Bangalore Urban,Private
+E036,Presidency University,EC,Electronics,GM,68521,Bangalore,Bangalore Urban,Private
+E037,MVJ College,CS,Computer Science,GM,67234,Bangalore,Bangalore Urban,Private
+E037,MVJ College,CS,Computer Science,OBC,83000,Bangalore,Bangalore Urban,Private
+E037,MVJ College,EC,Electronics,GM,79521,Bangalore,Bangalore Urban,Private
+E038,Bangalore Institute of Technology,CS,Computer Science,GM,45892,Bangalore,Bangalore Urban,Private
+E038,Bangalore Institute of Technology,CS,Computer Science,OBC,62000,Bangalore,Bangalore Urban,Private
+E038,Bangalore Institute of Technology,EC,Electronics,GM,57521,Bangalore,Bangalore Urban,Private
+E039,Nitte Meenakshi Institute,CS,Computer Science,GM,56234,Bangalore,Bangalore Urban,Private
+E039,Nitte Meenakshi Institute,CS,Computer Science,OBC,72000,Bangalore,Bangalore Urban,Private
+E039,Nitte Meenakshi Institute,EC,Electronics,GM,68521,Bangalore,Bangalore Urban,Private
+E040,PESIT South Campus,CS,Computer Science,GM,34892,Bangalore,Bangalore Urban,Private
+E040,PESIT South Campus,CS,Computer Science,OBC,51000,Bangalore,Bangalore Urban,Private
+E040,PESIT South Campus,EC,Electronics,GM,46521,Bangalore,Bangalore Urban,Private
+E041,Vidyavardhaka College,CS,Computer Science,GM,45234,Mysuru,Mysuru,Private
+E041,Vidyavardhaka College,CS,Computer Science,OBC,62000,Mysuru,Mysuru,Private
+E041,Vidyavardhaka College,EC,Electronics,GM,57234,Mysuru,Mysuru,Private
+E042,Maharaja Institute,CS,Computer Science,GM,56892,Mysuru,Mysuru,Private
+E042,Maharaja Institute,CS,Computer Science,OBC,73000,Mysuru,Mysuru,Private
+E042,Maharaja Institute,EC,Electronics,GM,69521,Mysuru,Mysuru,Private
+E043,Proudhadevaraya Institute,CS,Computer Science,GM,67234,Ballari,Ballari,Private
+E043,Proudhadevaraya Institute,CS,Computer Science,OBC,83000,Ballari,Ballari,Private
+E043,Proudhadevaraya Institute,EC,Electronics,GM,79521,Ballari,Ballari,Private
+E044,HKBK College Hubli,CS,Computer Science,GM,78521,Hubli,Dharwad,Private
+E044,HKBK College Hubli,CS,Computer Science,OBC,94000,Hubli,Dharwad,Private
+E044,HKBK College Hubli,EC,Electronics,GM,90234,Hubli,Dharwad,Private
+E045,Angadi Institute,CS,Computer Science,GM,89234,Belagavi,Belagavi,Private
+E045,Angadi Institute,CS,Computer Science,OBC,105000,Belagavi,Belagavi,Private
+E045,Angadi Institute,EC,Electronics,GM,101521,Belagavi,Belagavi,Private
+E046,KIT Tiptur,CS,Computer Science,GM,95892,Tumkur,Tumkur,Private
+E046,KIT Tiptur,CS,Computer Science,OBC,112000,Tumkur,Tumkur,Private
+E046,KIT Tiptur,EC,Electronics,GM,108234,Tumkur,Tumkur,Private
+E047,GSSS Institute,CS,Computer Science,GM,100234,Mysuru,Mysuru,Private
+E047,GSSS Institute,CS,Computer Science,OBC,116000,Mysuru,Mysuru,Private
+E047,GSSS Institute,EC,Electronics,GM,112521,Mysuru,Mysuru,Private
+E048,Jyothy Institute,CS,Computer Science,GM,89521,Bangalore,Bangalore Urban,Private
+E048,Jyothy Institute,CS,Computer Science,OBC,105000,Bangalore,Bangalore Urban,Private
+E048,Jyothy Institute,EC,Electronics,GM,101234,Bangalore,Bangalore Urban,Private
+E049,Don Bosco Institute,CS,Computer Science,GM,78234,Bangalore,Bangalore Urban,Private
+E049,Don Bosco Institute,CS,Computer Science,OBC,94000,Bangalore,Bangalore Urban,Private
+E049,Don Bosco Institute,EC,Electronics,GM,90521,Bangalore,Bangalore Urban,Private
+E050,Surana College,CS,Computer Science,GM,110234,Bangalore,Bangalore Urban,Private
+E050,Surana College,CS,Computer Science,OBC,126000,Bangalore,Bangalore Urban,Private
+E050,Surana College,EC,Electronics,GM,122521,Bangalore,Bangalore Urban,Private
+E050,Surana College,ME,Mechanical,GM,145000,Bangalore,Bangalore Urban,Private
